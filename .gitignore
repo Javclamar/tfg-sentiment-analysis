@@ -1,5 +1,8 @@
 /data/*
+!/data/models
+!/data/lexicons
 /results/*
+!/results/visualizations
 /venv/
 /notebooks/.ipynb_checkpoints/*
 __pycache__/

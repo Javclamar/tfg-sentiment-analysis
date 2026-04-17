@@ -2,7 +2,7 @@
 !/data/models
 !/data/lexicons
 /results/*
-!/results/visualizations
+!/results/topic_modeling/visualizations
 /venv/
 /notebooks/.ipynb_checkpoints/*
 __pycache__/

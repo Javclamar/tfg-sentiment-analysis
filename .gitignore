@@ -6,3 +6,11 @@
 /venv/
 /notebooks/.ipynb_checkpoints/*
 __pycache__/
+data/models/burgers/bertopic/bertopic_model.pkl
+.gitignore
+.gitignore
+data/models/fast_food/bertopic/bertopic_model.pkl
+data/models/mexican/bertopic/bertopic_model.pkl
+.gitignore
+data/models/steakhouses/bertopic/bertopic_model.pkl
+data/models/pubs/bertopic/bertopic_model.pkl

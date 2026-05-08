@@ -19,7 +19,7 @@
 /venv/
 /notebooks/.ipynb_checkpoints/*
 __pycache__/
-data/models/burgers/bertopic/bertopic_model.pkl
+data/models/burguers/bertopic/bertopic_model.pkl
 data/models/fast_food/bertopic/bertopic_model.pkl
 data/models/mexican/bertopic/bertopic_model.pkl
 data/models/steakhouses/bertopic/bertopic_model.pkl
